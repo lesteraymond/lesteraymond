@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lesteraymond/lesteraymond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.png" alt="What can I do but think of you?" width="100%"/>
 
-Here are some ideas to get you started:
+<sub>♡ &nbsp; *what can i do but think of you?* &nbsp; ♡</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<img src="written-by-olivia-rodrigo-wide.png" alt="written by olivia rodrigo" width="100%"/>
+
+<br/>
+♡ ･ﾟ: *✧･ﾟ:* &nbsp; made with love &nbsp; *:･ﾟ✧*:･ﾟ ♡
+
+</div>
